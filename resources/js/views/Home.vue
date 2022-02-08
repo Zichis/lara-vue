@@ -2,7 +2,7 @@
     <div>
         <h1 class="font-light text-3xl text-blue-700">Home</h1>
         <p>This is where we start!</p>
-        <h3>User Details</h3>
+        <h3>User</h3>
         <p>Name: {{ user.name }}</p>
         <p>Age: {{ user.age }}</p>
     </div>
